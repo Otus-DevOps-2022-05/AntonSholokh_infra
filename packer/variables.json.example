@@ -1,0 +1,8 @@
+{
+
+  "variables": {
+    "folder_id": "b1gidqgotgc3jcvglcr0",
+    "source_image_id": "f2ej424892lmn3ucmsbq",
+    "service_account_key_file": "/home/asholokh/DevOps/key.json"
+}
+}
