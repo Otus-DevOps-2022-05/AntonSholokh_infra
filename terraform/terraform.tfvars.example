@@ -1,0 +1,8 @@
+cloud_id                 = "b1ga9135vdd7qlgpnpu9"
+folder_id                = "b1gidqgotgc3jcvglcr0"
+zone                     = "ru-central1-a"
+image_id                 = "fd8ilnr8gl7jcqdk51ig"
+public_key_path          = "~/.ssh/yc.pub"
+subnet_id                = "e9bsrnea2n9mgnnijso9"
+service_account_key_file = "/home/asholokh/DevOps/key.json"
+private_key_path         = "~/.ssh/yc"
