@@ -1,1 +1,5 @@
 variables.pkr.json
+*.tfstate
+*.tfstate.*backup 
+*.tfvars 
+.terraform/
