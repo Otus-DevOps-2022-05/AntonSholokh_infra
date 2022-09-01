@@ -6,3 +6,6 @@ public_key_path          = "~/.ssh/yc.pub"
 subnet_id                = "e9bsrnea2n9mgnnijso9"
 service_account_key_file = "/home/asholokh/DevOps/key.json"
 private_key_path         = "~/.ssh/yc"
+app_disk_image           = "fd8einnirmmtct8u0na7"
+db_disk_image            = "fd861r0r9mq79refrt80"
+

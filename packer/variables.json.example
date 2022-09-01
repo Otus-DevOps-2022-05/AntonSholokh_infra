@@ -1,4 +1,4 @@
 {
     "folder_id": "b1gidqgotgc3jcvglcr0",
-    "service_account_key_file": "/home/asholokh/DevOps/key.json"
+    "service_account_key_file": "./keys/key.json"
 }
