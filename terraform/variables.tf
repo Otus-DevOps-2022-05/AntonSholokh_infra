@@ -27,4 +27,18 @@ variable ssh_host {
 variable private_key_path {
   description = "Path to private ssh key"
 }
+variable app_disk_image {
+	description = "Disk image for reddit app"
+	default = "reddit-app-base"
+}
+variable db_disk_image {
+	description = "Disk image for reddit db"
+	default = "reddit-db-base"
+}
+variable access_key {
+        description = "Otus backet access key"
+}
+variable secret_key {
+        description = "Otus backet secret key"
+}
 
