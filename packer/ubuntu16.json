@@ -1,9 +1,13 @@
 {
+	"variables": {
+		"folder_id": null,
+		"service_account_key_file": null
+	},
 	"builders": [
 		{
 			"type": "yandex",
-			"service_account_key_file": "/home/asholokh/DevOps/key.json",
-			"folder_id": "b1gidqgotgc3jcvglcr0",
+			"service_account_key_file": "{{user `service_account_key_file`}}",
+			"folder_id": "{{user `folder_id`}}",
 			"source_image_family": "ubuntu-1604-lts",
 			"image_name": "reddit-base-{{timestamp}}",
 			"image_family": "reddit-base",
