@@ -1,0 +1,9 @@
+app:
+        hosts:
+                appserver:
+                        ansible_host: 84.252.128.130
+
+db:
+        hosts:
+                dbserver:
+                        ansible_host: 178.154.201.112
